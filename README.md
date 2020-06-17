@@ -130,22 +130,18 @@ You will need a computer to run software, such as Circuit Wizard, allowing you t
 
 # **Proteus Simulation:**
 
-![](https://i.ibb.co/Mc5cnPk/Micro-Diagram23.png)
+![](https://i.ibb.co/ySRjpjq/Screenshot-813-FILEminimizer.png)
 
 _Fig. Sorting Algorithm Visualizer front Screen_
 
-![](RackMultipart20200617-4-5nr195_html_5cc9797b0fa11e22.png)
+![](https://i.ibb.co/cTsLXhC/Screenshot-814-FILEminimizer.png)
 
 _Fig. Enter Number to be Sorted_
 
-![](RackMultipart20200617-4-5nr195_html_9aa1bc4f5c65c211.png)
-
-_Fig. Sorting of numbers initiated_
-
-![](RackMultipart20200617-4-5nr195_html_497d23f73f7e6069.png)
+![](https://i.ibb.co/tKHQdc7/Screenshot-816-FILEminimizer.png)
 
 _Fig. Sorting in progress_
 
-![](RackMultipart20200617-4-5nr195_html_81d040c00d5fc95a.png)
+![](https://i.ibb.co/nBMcCRv/Screenshot-817-FILEminimizer.png)
 
 _Fig. Numbers sorted in order_
