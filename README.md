@@ -130,7 +130,7 @@ You will need a computer to run software, such as Circuit Wizard, allowing you t
 
 # **Proteus Simulation:**
 
-![](RackMultipart20200617-4-5nr195_html_d8e98866cebba345.png)
+![](https://i.ibb.co/Mc5cnPk/Micro-Diagram23.png)
 
 _Fig. Sorting Algorithm Visualizer front Screen_
 
